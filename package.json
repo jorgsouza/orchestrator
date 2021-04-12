@@ -1,0 +1,19 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgsouza/orchestrator.git"
+  },
+  "author": "Jorge Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgsouza/orchestrator/issues"
+  },
+  "homepage": "https://github.com/jorgsouza/orchestrator#readme"
+}
