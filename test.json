@@ -1,0 +1,1198 @@
+{
+    "default": {
+        "trendingSearchesDays": [
+            {
+                "date": "20210413",
+                "formattedDate": "Tuesday, April 13, 2021",
+                "trendingSearches": [
+                    {
+                        "title": {
+                            "query": "Chelsea",
+                            "exploreLink": "/trends/explore?q=Chelsea&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "20K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.ovale.com.br/_conteudo/esportes/2021/04/125161-liga-dos-campeoes--chelsea-duela-contra-o-porto-na-espanha.html",
+                            "source": "O VALE",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVYRLV6CKPN1iouKU8SWa9yS2HPQsxFYmP05VGiY1vNBx3iHOON2xelEwMxQtqdRpuSQEHmNzN"
+                        },
+                        "articles": [
+                            {
+                                "title": "Liga dos Campeões: Chelsea duela contra o Porto na Espanha",
+                                "timeAgo": "5h ago",
+                                "source": "O VALE",
+                                "image": {
+                                    "newsUrl": "https://www.ovale.com.br/_conteudo/esportes/2021/04/125161-liga-dos-campeoes--chelsea-duela-contra-o-porto-na-espanha.html",
+                                    "source": "O VALE",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSVYRLV6CKPN1iouKU8SWa9yS2HPQsxFYmP05VGiY1vNBx3iHOON2xelEwMxQtqdRpuSQEHmNzN"
+                                },
+                                "url": "https://www.ovale.com.br/_conteudo/esportes/2021/04/125161-liga-dos-campeoes--chelsea-duela-contra-o-porto-na-espanha.html",
+                                "snippet": "Gazetapress | @jornalovale. O Chelsea-ING está perto da classificação para as semifinais da Liga dos Campeões. Nesta terça-feira, os ingleses voltam a&nbsp;..."
+                            },
+                            {
+                                "title": "Bastidores da preparação do Porto para decisão contra o Chelsea ...",
+                                "timeAgo": "8h ago",
+                                "source": "Gazeta Esportiva",
+                                "image": {
+                                    "newsUrl": "https://www.gazetaesportiva.com/times/porto/bastidores-da-preparacao-do-porto-para-decisao-contra-o-chelsea/",
+                                    "source": "Gazeta Esportiva",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRWS91T95uNiKkHH9fBSLIBAJh0exqaFOrN9lTrSchRpycIIt4vvx4MeMsAGi4VIrJ9AjVipU3n"
+                                },
+                                "url": "https://www.gazetaesportiva.com/times/porto/bastidores-da-preparacao-do-porto-para-decisao-contra-o-chelsea/",
+                                "snippet": "Confira os bastidores da preparação e da viagem do FC Porto a Sevilha, na Espanha, para a decisão contra o Chelsea nas quartas de final da Liga dos."
+                            },
+                            {
+                                "title": "Chelsea x Porto: onde assistir, horário e escalações",
+                                "timeAgo": "10h ago",
+                                "source": "Metrópoles",
+                                "url": "https://www.metropoles.com/esportes/futebol/chelsea-x-porto-onde-assistir-horario-e-escalacoes",
+                                "snippet": "Time inglês venceu o jogo de ida das quartas de final por 2 x 0 e vai com grande vantagem para o jogo da volta."
+                            },
+                            {
+                                "title": "Onde assistir ao vivo a Chelsea x Porto, pelas quartas de final da ...",
+                                "timeAgo": "2h ago",
+                                "source": "Goal.com",
+                                "image": {
+                                    "newsUrl": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-ao-vivo-chelsea-porto-quartas-final-champions/1dzi16omwhkdk1d94bhh3rsljk",
+                                    "source": "Goal.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRTNRKvHNirxpMCJ7uaGTyVth_iXkbIXHy4sKX-ZjciNAStqpeko4STClN2qWq6ydpNx_IRZn7"
+                                },
+                                "url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-ao-vivo-chelsea-porto-quartas-final-champions/1dzi16omwhkdk1d94bhh3rsljk",
+                                "snippet": "Equipes entram em campo nesta terça (13), às 16h (de Brasília), em Sevilla; veja como acompanhar ao vivo na TV e na internet."
+                            },
+                            {
+                                "title": "Chelsea x Porto: Onde assistir, prováveis escalações, horário e ...",
+                                "timeAgo": "4h ago",
+                                "source": "Yahoo Esportes",
+                                "image": {
+                                    "newsUrl": "https://esportes.yahoo.com/noticias/chelsea-x-porto-onde-assistir-134615743.html",
+                                    "source": "Yahoo Esportes",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRx6r2GQ3-iPmbm3swM9FNzePX56UOzPZITqAFUeim3LBjdK0H8GJZY-YCFkqWIoinMAvdltwep"
+                                },
+                                "url": "https://esportes.yahoo.com/noticias/chelsea-x-porto-onde-assistir-134615743.html",
+                                "snippet": "Chelsea e Porto decidem nesta terça, em Sevilha, uma vaga à semifinal da Champions League; time inglês tem a vantagem após vitória no jogo de ida por 2 a&nbsp;..."
+                            },
+                            {
+                                "title": "Saiba onde assistir ao vivo Chelsea x Porto, pela Liga dos Campeões",
+                                "timeAgo": "7h ago",
+                                "source": "Rádio Jornal",
+                                "image": {
+                                    "newsUrl": "https://radiojornal.ne10.uol.com.br/esportes/2021/04/12/saiba-onde-assistir-ao-vivo-chelsea-x-porto-pela-liga-dos-campeoes-207358",
+                                    "source": "Rádio Jornal",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRf2BfId34N1K_W5luiqAKMCCzZ6BOeq0BD7mozbGdLqofOIS1ZmohdVa2gEsNoyvR1K8cHP2vV"
+                                },
+                                "url": "https://radiojornal.ne10.uol.com.br/esportes/2021/04/12/saiba-onde-assistir-ao-vivo-chelsea-x-porto-pela-liga-dos-campeoes-207358",
+                                "snippet": "Chelsea x Porto se enfrentam nesta terça-feira (13), às 16h (de Brasília), no estádio Ramón Sánchez Pizjuán, em Sevilla."
+                            },
+                            {
+                                "title": "Chelsea x Porto: onde assistir de graça o jogo da Champions (13/04)",
+                                "timeAgo": "8h ago",
+                                "source": "DCI",
+                                "image": {
+                                    "newsUrl": "https://www.dci.com.br/esporte/futebol/liga-dos-campeoes/chelsea-x-porto-hoje-13-04-2021/118449/",
+                                    "source": "DCI",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTeM8nCC2E4cYkC0EV7VeAFyovTndWP9aKamTIZuHDRLr_c9vkGZ9BV936WKW6jIwzAqlUZGC6J"
+                                },
+                                "url": "https://www.dci.com.br/esporte/futebol/liga-dos-campeoes/chelsea-x-porto-hoje-13-04-2021/118449/",
+                                "snippet": "Chelsea x Porto se enfrentam nesta terça-feira (13), às 16h, pelo jogo de volta nas quartas de final da Champions. Saiba onde assistir."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Chelsea#Chelsea"
+                    },
+                    {
+                        "title": {
+                            "query": "Stephen Curry",
+                            "exploreLink": "/trends/explore?q=Stephen+Curry&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "20K+",
+                        "relatedQueries": [
+                            {
+                                "query": "golden state warriors",
+                                "exploreLink": "/trends/explore?q=golden+state+warriors&date=now+7-d&geo=BR"
+                            }
+                        ],
+                        "image": {
+                            "newsUrl": "https://www.terra.com.br/esportes/basquete/nba/stephen-curry-torna-se-maior-pontuador-da-historia-do-warriors,f5cde09c445d4e831ce15bdc2b6555514icb8efy.html",
+                            "source": "Terra",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrIzXfo3GWJnLD-zzt1AOUqHqm8a4gDv2QXvuADfPpw2WYtoiv0OAwl2U3UrZRghxQqNM2Az0n"
+                        },
+                        "articles": [
+                            {
+                                "title": "Stephen Curry torna-se maior pontuador da história do Warriors",
+                                "timeAgo": "7h ago",
+                                "source": "Terra",
+                                "image": {
+                                    "newsUrl": "https://www.terra.com.br/esportes/basquete/nba/stephen-curry-torna-se-maior-pontuador-da-historia-do-warriors,f5cde09c445d4e831ce15bdc2b6555514icb8efy.html",
+                                    "source": "Terra",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTrIzXfo3GWJnLD-zzt1AOUqHqm8a4gDv2QXvuADfPpw2WYtoiv0OAwl2U3UrZRghxQqNM2Az0n"
+                                },
+                                "url": "https://www.terra.com.br/esportes/basquete/nba/stephen-curry-torna-se-maior-pontuador-da-historia-do-warriors,f5cde09c445d4e831ce15bdc2b6555514icb8efy.html",
+                                "snippet": "Com fantástica atuação contra o Nuggets, armador ultrapassa lendário Wilt Chamberlain para atingir recorde da franquia."
+                            },
+                            {
+                                "title": "Análise: Curry ajudou a transformar a NBA, mas revolução foi o ...",
+                                "timeAgo": "7h ago",
+                                "source": "globoesporte.com",
+                                "image": {
+                                    "newsUrl": "https://globoesporte.globo.com/basquete/nba/noticia/analise-curry-ajudou-a-transformar-a-nba-mas-revolucao-foi-o-sistema-de-jogo-dos-warriors.ghtml",
+                                    "source": "globoesporte.com",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQcqZwLaHg7lp1MxqjB2BHAx_n93xmHhHSZKSCWaeunbdoQOIQJlzXDlOIHDc_wj1n6Ymz2E37U"
+                                },
+                                "url": "https://globoesporte.globo.com/basquete/nba/noticia/analise-curry-ajudou-a-transformar-a-nba-mas-revolucao-foi-o-sistema-de-jogo-dos-warriors.ghtml",
+                                "snippet": "Na noite desta segunda-feira, armador ultrapassou o lendário Wilt Chamberlain e se tornou o maior pontuador da história da franquia californiana."
+                            },
+                            {
+                                "title": "Com 53 pontos em vitória, Curry se torna maior cestinha da história ...",
+                                "timeAgo": "8h ago",
+                                "source": "Istoe",
+                                "url": "https://istoe.com.br/com-53-pontos-em-vitoria-curry-se-torna-maior-cestinha-da-historia-dos-warriors/",
+                                "snippet": "Stephen Curry fez história na rodada de segunda-feira da temporada regular da NBA. Com 53 pontos na vitória do Golden State Warriors sobre o Denver&nbsp;..."
+                            },
+                            {
+                                "title": "Em jogo histórico de Curry, Golden State Warriors supera os ...",
+                                "timeAgo": "6h ago",
+                                "source": "UOL",
+                                "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2021/04/13/em-jogo-historico-de-curry-golden-state-warriors-supera-os-nuggets-na-nba.htm",
+                                "snippet": "A rodada de segunda-feira da NBA foi marcante para Stephen Curry e o Golden State Warriors. O astro teve destaque na vitória contra o Denver Nuggets por&nbsp;..."
+                            },
+                            {
+                                "title": "VÍDEO: em noite de sonho, Steph Curry ultrapassa o lendário Wilt ...",
+                                "timeAgo": "10h ago",
+                                "source": "Diário IOL",
+                                "image": {
+                                    "newsUrl": "https://tvi24.iol.pt/nba/stephen-curry/video-em-noite-de-sonho-steph-curry-ultrapassa-o-lendario-wilt-chamberlain",
+                                    "source": "Diário IOL",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTYdQ3umykP2l_IlTwjUTR9UcHTKhY8mNk1s4r2IlsvTuPiERNATXAA65gPwXBm_KNzNSRoYLGQ"
+                                },
+                                "url": "https://tvi24.iol.pt/nba/stephen-curry/video-em-noite-de-sonho-steph-curry-ultrapassa-o-lendario-wilt-chamberlain",
+                                "snippet": "Marcou 53 pontos frente aos Nuggets e tornou-se no melhor marcador de sempre dos Golden State Warriors."
+                            },
+                            {
+                                "title": "Curry anota 53 pontos contra o Denver Nuggets e se torna o maior ...",
+                                "timeAgo": "5h ago",
+                                "source": "SportBuzz",
+                                "image": {
+                                    "newsUrl": "https://sportbuzz.uol.com.br/noticias/basquete/curry-anota-53-pontos-contra-o-denver-nuggets-e-se-torna-o-maior-pontuador-da-historia-do-golden-state-warriors.phtml",
+                                    "source": "SportBuzz",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTM96er2xqnNAgKm7CWXe-KSBITiEE_FPY6x3pgonBFn7bfvyw9mwgV_IM60Y4EnS1f2lbV99-V"
+                                },
+                                "url": "https://sportbuzz.uol.com.br/noticias/basquete/curry-anota-53-pontos-contra-o-denver-nuggets-e-se-torna-o-maior-pontuador-da-historia-do-golden-state-warriors.phtml",
+                                "snippet": "A estrela dos Warriors&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Stephen+Curry#Stephen%20Curry"
+                    },
+                    {
+                        "title": {
+                            "query": "Paysandu",
+                            "exploreLink": "/trends/explore?q=Paysandu&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://globoesporte.globo.com/pa/futebol/copa-do-brasil/noticia/olha-a-grana-paysandu-e-remo-buscam-vaga-na-3a-fase-da-copa-do-brasil-para-equilibrar-financas.ghtml",
+                            "source": "globoesporte.com",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUKIEJEXKoT28BrtgWHkKwjq6co6ENSL2vxJp6tW52OzQ-QOFBvhuZ3oplbnHXiIgDfo3qF18i"
+                        },
+                        "articles": [
+                            {
+                                "title": "Olha a grana: Paysandu e Remo buscam vaga na 3ª fase da Copa ...",
+                                "timeAgo": "4h ago",
+                                "source": "globoesporte.com",
+                                "image": {
+                                    "newsUrl": "https://globoesporte.globo.com/pa/futebol/copa-do-brasil/noticia/olha-a-grana-paysandu-e-remo-buscam-vaga-na-3a-fase-da-copa-do-brasil-para-equilibrar-financas.ghtml",
+                                    "source": "globoesporte.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRUKIEJEXKoT28BrtgWHkKwjq6co6ENSL2vxJp6tW52OzQ-QOFBvhuZ3oplbnHXiIgDfo3qF18i"
+                                },
+                                "url": "https://globoesporte.globo.com/pa/futebol/copa-do-brasil/noticia/olha-a-grana-paysandu-e-remo-buscam-vaga-na-3a-fase-da-copa-do-brasil-para-equilibrar-financas.ghtml",
+                                "snippet": "Cota de R$ 1,7 milhão ajudaria clubes a manter as contas em dia e investir na sequência da temporada. Papão e Leão jogam nesta terça-feira, dia 13, contra&nbsp;..."
+                            },
+                            {
+                                "title": "Onde assistir ao vivo a Paysandu x CRB, pela Copa do Brasil ...",
+                                "timeAgo": "1h ago",
+                                "source": "Goal.com",
+                                "image": {
+                                    "newsUrl": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-ao-vivo-paysandu-x-crb-pela-copa-do-brasil/1azo61lllxtke1n2zg9mrjkl3z",
+                                    "source": "Goal.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTJqe8d2PHPR6NbkDJgnnDj0jktigHKfMCPChcYDE3RiA1pewY6qTIkx4ioOU1e0ix8eahUm_pq"
+                                },
+                                "url": "https://www.goal.com/br/not%C3%ADcias/onde-assistir-ao-vivo-paysandu-x-crb-pela-copa-do-brasil/1azo61lllxtke1n2zg9mrjkl3z",
+                                "snippet": "Duelo será na Curuzu, nesta terça-feira (13), pela segunda fase; veja como acompanhar ao vivo na TV e na internet."
+                            },
+                            {
+                                "title": "CRB visita o Paysandu na busca por uma vaga na terceira fase da ...",
+                                "timeAgo": "8h ago",
+                                "source": "Gazetaweb.com",
+                                "image": {
+                                    "newsUrl": "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-visita-o-paysandu-na-busca-por-uma-vaga-na-terceira-fase-da-copa-do-brasil/",
+                                    "source": "Gazetaweb.com",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFGo4rdoxpRdKf4m4e_Mg-phDPmIQTPBGQpMXiD2UBytguMBX_Ee0F-2YmfT6g3-sRmc3uH8o6"
+                                },
+                                "url": "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-visita-o-paysandu-na-busca-por-uma-vaga-na-terceira-fase-da-copa-do-brasil/",
+                                "snippet": "Quem avançar garantirá R$ 1,7 milhão em premiação; partida será no Estádio da Curuzu, em Belém, às 16h45."
+                            },
+                            {
+                                "title": "Paysandu x CRB: onde assistir ao vivo, possíveis escalações e ...",
+                                "timeAgo": "3h ago",
+                                "source": "Blasting News Brasil",
+                                "image": {
+                                    "newsUrl": "https://br.blastingnews.com/esporte/2021/04/paysandu-x-crb-onde-assistir-ao-vivo-possiveis-escalacoes-e-desfalques-003307930.html",
+                                    "source": "Blasting News Brasil",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSasJHnPu7dSrXm8_GieSGVpAeOdiUAmxDQ6E627RDaOItwLlY1tl7D6B3eQrETD2oYkhoCunNq"
+                                },
+                                "url": "https://br.blastingnews.com/esporte/2021/04/paysandu-x-crb-onde-assistir-ao-vivo-possiveis-escalacoes-e-desfalques-003307930.html",
+                                "snippet": "Jogo entre paraenses e alagoanos será disputado nesta terça-feira, na Curucu, em Belém."
+                            },
+                            {
+                                "title": "Paysandu x CRB: onde assistir Copa do Brasil hoje - 13/4",
+                                "timeAgo": "10h ago",
+                                "source": "DCI",
+                                "image": {
+                                    "newsUrl": "https://www.dci.com.br/esporte/copa-do-brasil/paysandu-x-crb-onde-assistir-hoje-13-4-21/118428/",
+                                    "source": "DCI",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRFI9g6PQYqUxt6RfYaOs3URsU50YZP3_E7qz8aYPD9Bn9J8abstgT0o-fLZu5uqTyrqCUQGKW_"
+                                },
+                                "url": "https://www.dci.com.br/esporte/copa-do-brasil/paysandu-x-crb-onde-assistir-hoje-13-4-21/118428/",
+                                "snippet": "Jogo do Paysandu e CRB define mais um classificado à terceira fase da Copa do Brasil 2021. Confira onde assistir ao vivo e horário do duelo."
+                            },
+                            {
+                                "title": "Paysandu x CRB AO VIVO: onde assistir ao jogo em tempo real pela ...",
+                                "timeAgo": "9h ago",
+                                "source": "VAVEL.com",
+                                "image": {
+                                    "newsUrl": "https://www.vavel.com/br/futebol/2021/04/13/1067150-paysandu-x-crb-ao-vivo-onde-assistir-ao-jogo-em-tempo-real-pela-copa-do-brasil.html",
+                                    "source": "VAVEL.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQ8sY5p66v2fjm6mcVXJrQoV6Lb5tsl25OI9am1oK1wIwjB-F3LRSQha3aHI8ZbGj6zJSgGLrum"
+                                },
+                                "url": "https://www.vavel.com/br/futebol/2021/04/13/1067150-paysandu-x-crb-ao-vivo-onde-assistir-ao-jogo-em-tempo-real-pela-copa-do-brasil.html",
+                                "snippet": "Saiba onde assistir e acompanhe minuto a minuto do jogo Paysandu x CRB ao vivo pela Copa do Brasil no dia 13 de abril. Horário do jogo: 16h45 (de Brasília)."
+                            },
+                            {
+                                "title": "Alagoas x Pará: CSA e CRB enfrentam rivais Remo e Paysandu ...",
+                                "timeAgo": "4h ago",
+                                "source": "Alagoas 24 Horas",
+                                "image": {
+                                    "newsUrl": "https://www.alagoas24horas.com.br/1352725/alagoas-x-para-csa-e-crb-enfrentam-rivais-remo-e-paysandu-pela-copa-do-brasil/",
+                                    "source": "Alagoas 24 Horas",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRD_wXZfV0gVUG4_WiQ2N3cI8cCC5Gu7chyz8ntsFm1pPKWCey4cg7uIpkLbcPg1S_6b8tB33r8"
+                                },
+                                "url": "https://www.alagoas24horas.com.br/1352725/alagoas-x-para-csa-e-crb-enfrentam-rivais-remo-e-paysandu-pela-copa-do-brasil/",
+                                "snippet": "A Copa do Brasil conhecerá, nesta terça-feira, mais três clubes classificados à terceira fase, que terá jogos de ida e volta e confrontos definidos por sorteio."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Paysandu#Paysandu"
+                    },
+                    {
+                        "title": {
+                            "query": "Univesp",
+                            "exploreLink": "/trends/explore?q=Univesp&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://jtv.com.br/vinhedo/univesp-abre-inscricoes-para-vestibular-2021-na-segunda-feira-19",
+                            "source": "JTV Online",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwQUBFaFxRrGYLitqPicgo2J8H8W_1eZeQ5H_DLsj05iCE4dGJBq-_illhsiho4kKQjx0Cl6E0"
+                        },
+                        "articles": [
+                            {
+                                "title": "Univesp abre inscrições para o vestibular em 19 de abril | Governo ...",
+                                "timeAgo": "2h ago",
+                                "source": "Portal do Governo do Estado de São Paulo",
+                                "url": "https://www.saopaulo.sp.gov.br/spnoticias/univesp-abre-inscricoes-para-o-vestibular-em-19-de-abril/",
+                                "snippet": "Serão ofertadas 11.020 vagas, em 305 municípios, maior vestibular em alcance territorial do estado de São Paulo. ter, 13/04/2021 - 13h21 | Do Portal do&nbsp;..."
+                            },
+                            {
+                                "title": "Univesp abre inscrições para vestibular 2021 na segunda-feira (19)",
+                                "timeAgo": "3h ago",
+                                "source": "JTV Online",
+                                "image": {
+                                    "newsUrl": "https://jtv.com.br/vinhedo/univesp-abre-inscricoes-para-vestibular-2021-na-segunda-feira-19",
+                                    "source": "JTV Online",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSwQUBFaFxRrGYLitqPicgo2J8H8W_1eZeQ5H_DLsj05iCE4dGJBq-_illhsiho4kKQjx0Cl6E0"
+                                },
+                                "url": "https://jtv.com.br/vinhedo/univesp-abre-inscricoes-para-vestibular-2021-na-segunda-feira-19",
+                                "snippet": "Polo de Vinhedo tem 32 vagas, 16 para o eixo de Licenciaturas e 16 para o eixo de Computação."
+                            },
+                            {
+                                "title": "EAD: Vestibular da Univesp oferece 11 mil vagas em cursos gratuitos",
+                                "timeAgo": "4h ago",
+                                "source": "HORA 7",
+                                "image": {
+                                    "newsUrl": "https://noticias.r7.com/educacao/ead-vestibular-da-univesp-oferece-11-mil-vagas-em-cursos-gratuitos-13042021",
+                                    "source": "HORA 7",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTCAlL7SdrenTPZw6iXj46uFuRHIx39aOG7DO4XtB78YYJRcOvU1uLcIrX4KKo372dnVMYwW0ml"
+                                },
+                                "url": "https://noticias.r7.com/educacao/ead-vestibular-da-univesp-oferece-11-mil-vagas-em-cursos-gratuitos-13042021",
+                                "snippet": "Inscrições devem ser feitas pelo site a partir das 10h do próxima segunda-feira (19) e a taxa de inscrição é de R$ 45."
+                            },
+                            {
+                                "title": "Univesp abre vestibular com 128 vagas para os polos de São José ...",
+                                "timeAgo": "2h ago",
+                                "source": "Vale News",
+                                "image": {
+                                    "newsUrl": "https://valenews.com.br/2021/04/13/univesp-abre-vestibular-com-128-vagas-para-os-polos-de-sao-jose-dos-campos/",
+                                    "source": "Vale News",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRhUXs6FCZVjFTj9GMSyjrJ7KxDl9B6PUwdWFnED5vGHYfn-AX0dNykWlk8zO8U7Qj1mKquvbwZ"
+                                },
+                                "url": "https://valenews.com.br/2021/04/13/univesp-abre-vestibular-com-128-vagas-para-os-polos-de-sao-jose-dos-campos/",
+                                "snippet": "A Univesp (Universidade Virtual do Estado de São Paulo) abriu na última segunda-feira (12), o processo seletivo para preenchimento de 11.020 vagas em 305&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Univesp#Univesp"
+                    },
+                    {
+                        "title": {
+                            "query": "Liverpool x Real Madrid",
+                            "exploreLink": "/trends/explore?q=Liverpool+x+Real+Madrid&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.gazetaesportiva.com/times/liverpool/liverpool-x-real-madrid-saiba-onde-assistir-a-partida-da-liga-dos-campeoes-da-uefa/",
+                            "source": "Gazeta Esportiva",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTS-3kO7KZqXNuDMR_VdsoE2JMhNheFOq8BZXZYhCfwWrwnn4lqAOtI6HKDvIKrxcFN85_xZzhm"
+                        },
+                        "articles": [
+                            {
+                                "title": "Liverpool x Real Madrid: saiba onde assistir à partida da Liga dos ...",
+                                "timeAgo": "5h ago",
+                                "source": "Gazeta Esportiva",
+                                "image": {
+                                    "newsUrl": "https://www.gazetaesportiva.com/times/liverpool/liverpool-x-real-madrid-saiba-onde-assistir-a-partida-da-liga-dos-campeoes-da-uefa/",
+                                    "source": "Gazeta Esportiva",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTS-3kO7KZqXNuDMR_VdsoE2JMhNheFOq8BZXZYhCfwWrwnn4lqAOtI6HKDvIKrxcFN85_xZzhm"
+                                },
+                                "url": "https://www.gazetaesportiva.com/times/liverpool/liverpool-x-real-madrid-saiba-onde-assistir-a-partida-da-liga-dos-campeoes-da-uefa/",
+                                "snippet": "O Liverpool enfrenta o Real Madrid nesta quarta-feira, 14 de Abril, às 16h00, pela Liga dos Campeões da UEFA. A partida será transmitida pela página da."
+                            },
+                            {
+                                "title": "Liverpool x Real Madrid: saiba onde assistir e prováveis escalações",
+                                "timeAgo": "1h ago",
+                                "source": "SportBuzz",
+                                "image": {
+                                    "newsUrl": "https://sportbuzz.uol.com.br/noticias/agenda/liverpool-x-real-madrid-saiba-onde-assistir-e-provaveis-escalacoes.phtml",
+                                    "source": "SportBuzz",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTDE2dtOQo9mHcOUP3gGfsetS1CNR-lB9TfxDSuO4QUY9wl92xJbfuChHWuoy3BRyFgGHySiFy8"
+                                },
+                                "url": "https://sportbuzz.uol.com.br/noticias/agenda/liverpool-x-real-madrid-saiba-onde-assistir-e-provaveis-escalacoes.phtml",
+                                "snippet": "As equipes se&nbsp;..."
+                            },
+                            {
+                                "title": "Klopp elogia Vini Jr antes de encarar o Real Madrid: &quot;Me ...",
+                                "timeAgo": "3h ago",
+                                "source": "globoesporte.com",
+                                "image": {
+                                    "newsUrl": "https://globoesporte.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/klopp-elogia-vini-jr-antes-de-liverpool-x-real-madrid-me-impressionou.ghtml",
+                                    "source": "globoesporte.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRvoN5rFAcE4C19MIB5dY4GL0EBqVu-jrnszUbW3U2AeVtz6mHm0qurY8LzdIc8A5Vkxoj-DI4O"
+                                },
+                                "url": "https://globoesporte.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/klopp-elogia-vini-jr-antes-de-liverpool-x-real-madrid-me-impressionou.ghtml",
+                                "snippet": "Técnico diz que o Liverpool precisa impedir que a bola chegue até o atacante no jogo desta quarta-feira. Na ida, time espanhol venceu por 3 a 1, com dois gols&nbsp;..."
+                            },
+                            {
+                                "title": "Liverpool x Real Madrid: Assista jogo ao vivo das 4ª de final na TNT ...",
+                                "timeAgo": "2h ago",
+                                "source": "Info Esporte",
+                                "image": {
+                                    "newsUrl": "https://infoesporte.com.br/liverpool-x-real-madrid-assista-jogo-ao-vivo-das-4a-de-final-na-tnt-sports-50164/",
+                                    "source": "Info Esporte",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSyfTYss_NUQK9VMt6RyQkHLEmMvRI-MAHtNVKv06XW_yrYqVxZRSSJTGlf4oxY5bKAVwWDc7eI"
+                                },
+                                "url": "https://infoesporte.com.br/liverpool-x-real-madrid-assista-jogo-ao-vivo-das-4a-de-final-na-tnt-sports-50164/",
+                                "snippet": "Na tarde desta quarta-feira, 14 de abril, Liverpool e Real Madrid tem jogo ao vivo no Facebook TNT Sports. Esta é a segunda partida das quartas de final da&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Liverpool+x+Real+Madrid#Liverpool%20x%20Real%20Madrid"
+                    },
+                    {
+                        "title": {
+                            "query": "Grêmio x Independiente del Valle",
+                            "exploreLink": "/trends/explore?q=Gr%C3%AAmio+x+Independiente+del+Valle&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/gremio-x-independiente-del-valle-veja-a-lista-de-relacionados-do-tricolor-para-a-decisao.ghtml",
+                            "source": "globoesporte.com",
+                            "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBBFpEB83axWETq4MTZxDgFFk_0j2-NcdDkgmE1Ghrx4cS6fgljqbLy-ZY9ai6iIWWXZwCWDfH"
+                        },
+                        "articles": [
+                            {
+                                "title": "Grêmio x Independiente del Valle: veja a lista de relacionados do ...",
+                                "timeAgo": "3h ago",
+                                "source": "globoesporte.com",
+                                "image": {
+                                    "newsUrl": "https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/gremio-x-independiente-del-valle-veja-a-lista-de-relacionados-do-tricolor-para-a-decisao.ghtml",
+                                    "source": "globoesporte.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcSBBFpEB83axWETq4MTZxDgFFk_0j2-NcdDkgmE1Ghrx4cS6fgljqbLy-ZY9ai6iIWWXZwCWDfH"
+                                },
+                                "url": "https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/gremio-x-independiente-del-valle-veja-a-lista-de-relacionados-do-tricolor-para-a-decisao.ghtml",
+                                "snippet": "Kannemann, Paulo Miranda, Pepê, Maicon e Jean Pyerre retornam à equipe para o jogo que vale vaga na fase de grupos da Libertadores."
+                            },
+                            {
+                                "title": "Grêmio x Independiente del Valle: Saiba onde assistir e prováveis ...",
+                                "timeAgo": "2h ago",
+                                "source": "SportBuzz",
+                                "image": {
+                                    "newsUrl": "https://sportbuzz.uol.com.br/noticias/agenda/gremio-x-independiente-del-valle-saiba-onde-assistir-e-provaveis-escalacoes.phtml",
+                                    "source": "SportBuzz",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRfpPadVOu_20J4KmrfwOCGBndv1cSBGgg9HdSdI4ybCanYS5Pr5u4RzrFN_RcF73QB5K0ZiQ1"
+                                },
+                                "url": "https://sportbuzz.uol.com.br/noticias/agenda/gremio-x-independiente-del-valle-saiba-onde-assistir-e-provaveis-escalacoes.phtml",
+                                "snippet": "Partida vale uma vaga&nbsp;..."
+                            },
+                            {
+                                "title": "Grêmio x Independiente del Valle: Como assistir AO VIVO e tudo ...",
+                                "timeAgo": "5h ago",
+                                "source": "Portal do Gremista",
+                                "image": {
+                                    "newsUrl": "https://portaldogremista.com.br/gremio-x-independiente-del-valle-como-assistir-ao-vivo-e-tudo-sobre-o-jogo/",
+                                    "source": "Portal do Gremista",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS3ApT6qXlaCa-issd7LIljF54TZ1x2Oi1wBubf0fox90LoFVmdBEor8J-VsSAoY_4erZ10uk5K"
+                                },
+                                "url": "https://portaldogremista.com.br/gremio-x-independiente-del-valle-como-assistir-ao-vivo-e-tudo-sobre-o-jogo/",
+                                "snippet": "Veja os detalhes de como assistir Grêmio x Del Valle ao vivo. O confronto acontece nesta quarta-feira, em jogo na Arena."
+                            },
+                            {
+                                "title": "Grêmio x Independiente del Valle: saiba onde assistir à partida da ...",
+                                "timeAgo": "5h ago",
+                                "source": "Gazeta Esportiva",
+                                "image": {
+                                    "newsUrl": "https://www.gazetaesportiva.com/times/gremio-sp/gremio-x-independiente-del-valle-saiba-onde-assistir-a-partida-da-copa-libertadores-da-america/",
+                                    "source": "Gazeta Esportiva",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS0l9ZX-Takl2Ygx64aHC0KALEMv8BFZvQCkTbwVWfjGwHWahkvBZc6Ev3Efl-knVfpAHytaH6_"
+                                },
+                                "url": "https://www.gazetaesportiva.com/times/gremio-sp/gremio-x-independiente-del-valle-saiba-onde-assistir-a-partida-da-copa-libertadores-da-america/",
+                                "snippet": "O Grêmio enfrenta os equatorianos do Independiente del Valle, nesta quarta-feira, 14 de Abril, às 19h15, pela Copa Libertadores da América. A partida será."
+                            },
+                            {
+                                "title": "Grêmio x Del Valle: horário, como assistir e tudo sobre o jogo de ...",
+                                "timeAgo": "6h ago",
+                                "source": "GauchaZH",
+                                "image": {
+                                    "newsUrl": "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2021/04/gremio-x-del-valle-horario-como-assistir-e-tudo-sobre-o-jogo-de-volta-da-terceira-fase-da-libertadores-cknfxynfo0009016uk1i750no.html",
+                                    "source": "GauchaZH",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSswzmdKuEBq5_74REMB3uQ4v5TkXmBtITt8TuQR2vHrNnyCk4sLNFAFrsyoH9PCIDr4kjjquaq"
+                                },
+                                "url": "https://gauchazh.clicrbs.com.br/esportes/gremio/noticia/2021/04/gremio-x-del-valle-horario-como-assistir-e-tudo-sobre-o-jogo-de-volta-da-terceira-fase-da-libertadores-cknfxynfo0009016uk1i750no.html",
+                                "snippet": "Tricolor precisa vencer para chegar à fase de grupos do torneio continental."
+                            },
+                            {
+                                "title": "Como resultado de Grêmio x Del Valle influencia vida de Douglas ...",
+                                "timeAgo": "11h ago",
+                                "source": "UOL",
+                                "image": {
+                                    "newsUrl": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2021/04/13/como-resultado-de-gremio-x-del-valle-influencia-vida-de-douglas-costa.htm",
+                                    "source": "UOL",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQWK8XCnn3nSdO6gYRGNKjf7Gh3CmouJuNK0I9fW-VIhAzm1OsrCqQJp18NsHDOuR3I_h4Dpxcj"
+                                },
+                                "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2021/04/13/como-resultado-de-gremio-x-del-valle-influencia-vida-de-douglas-costa.htm",
+                                "snippet": "O Grêmio falou com Douglas Costa, o meia-atacante conversou com Renato Portaluppi e existe o sonho (de todos os envolvidos) de acerto. Mas os planos&nbsp;..."
+                            },
+                            {
+                                "title": "Grêmio tem desfalques para jogo da Libertadores, mas conta com ...",
+                                "timeAgo": "6h ago",
+                                "source": "Blasting News Brasil",
+                                "image": {
+                                    "newsUrl": "https://br.blastingnews.com/esporte/2021/04/gremio-tem-desfalques-para-jogo-da-libertadores-mas-conta-com-reforcos-importantes-003307794.html",
+                                    "source": "Blasting News Brasil",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcT_6ZOI-dTm1_tBDp8--LiCOPJF5xd2ewtimZJslROJ9sBmFfps7EqOeoZGfihOq574EYcoBS16"
+                                },
+                                "url": "https://br.blastingnews.com/esporte/2021/04/gremio-tem-desfalques-para-jogo-da-libertadores-mas-conta-com-reforcos-importantes-003307794.html",
+                                "snippet": "O confronto diante do Independiente Del Valle pode decidir o ano do Grêmio em todos os aspectos."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Gr%C3%AAmio+x+Independiente+del+Valle#Gr%C3%AAmio%20x%20Independiente%20del%20Valle"
+                    },
+                    {
+                        "title": {
+                            "query": "Penarol",
+                            "exploreLink": "/trends/explore?q=Penarol&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://infoesporte.com.br/timao-ta-de-olho-penarol-e-cerro-largo-disputam-vaga-pela-sul-americana-50173/",
+                            "source": "Info Esporte",
+                            "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdzdAffWDD2jJl085Rhiv8e8FkQvbbMJXWjkeXR2plJvw2Wf0ZXMA7m8br3Bqo5VRdUPpOl0m1"
+                        },
+                        "articles": [
+                            {
+                                "title": "Timão tá de olho: Peñarol e Cerro Largo disputam vaga pela Sul ...",
+                                "timeAgo": "4h ago",
+                                "source": "Info Esporte",
+                                "image": {
+                                    "newsUrl": "https://infoesporte.com.br/timao-ta-de-olho-penarol-e-cerro-largo-disputam-vaga-pela-sul-americana-50173/",
+                                    "source": "Info Esporte",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRdzdAffWDD2jJl085Rhiv8e8FkQvbbMJXWjkeXR2plJvw2Wf0ZXMA7m8br3Bqo5VRdUPpOl0m1"
+                                },
+                                "url": "https://infoesporte.com.br/timao-ta-de-olho-penarol-e-cerro-largo-disputam-vaga-pela-sul-americana-50173/",
+                                "snippet": "Novidade na edição 2021, a fase de grupos da Copa Sul-Americana está parcialmente definida. Resta ainda conhecermos, além das equipes que forem&nbsp;..."
+                            },
+                            {
+                                "title": "Peñarol x Cerro Largo: como assistir e horário da Sul-americana ...",
+                                "timeAgo": "8h ago",
+                                "source": "DCI",
+                                "image": {
+                                    "newsUrl": "https://www.dci.com.br/esporte/futebol/penarol-x-cerro-largo-como-assistir-13-4-21/118456/",
+                                    "source": "DCI",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTsmyyysj9X47l7QIF4lIsqf9aFCSyfE7B2o_OfGFSWhD3MypsqGu00KvROIq5T2qcT-IuYvMk4"
+                                },
+                                "url": "https://www.dci.com.br/esporte/futebol/penarol-x-cerro-largo-como-assistir-13-4-21/118456/",
+                                "snippet": "Peñarol e Cerro Largo decidem vaga na fase de grupos da Copa Sul-americana 2021. Veja como assistir duelo ao vivo nesta terça-feira."
+                            },
+                            {
+                                "title": "Penãrol x Cerro Largo onde assistir ao vivo hoje? | Copa Sul ...",
+                                "timeAgo": "56m ago",
+                                "source": "Tabela Esportiva",
+                                "image": {
+                                    "newsUrl": "https://tabelaesportiva.com/penarol-x-cerro-largo-onde-assistir-ao-vivo-hoje-copa-sul-americana/04/2021/135849/",
+                                    "source": "Tabela Esportiva",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcRWzYSKKRTXo-YHg2KQYtJNeQXjjPKfw6KXdLT0jVeHlymNDT-KWImaHqiK70qWqpZA5ex_Xi9w"
+                                },
+                                "url": "https://tabelaesportiva.com/penarol-x-cerro-largo-onde-assistir-ao-vivo-hoje-copa-sul-americana/04/2021/135849/",
+                                "snippet": "Penãrol x Cerro Largo onde assistir ao vivo hoje? terça-feira (13), às 21h30, primeira fase Copa Sul-Americana | Palpite | Confira agora!"
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Penarol#Penarol"
+                    },
+                    {
+                        "title": {
+                            "query": "Felipe Titto",
+                            "exploreLink": "/trends/explore?q=Felipe+Titto&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://istoe.com.br/felipe-titto-se-pronuncia-apos-ser-detido-ao-abordar-homem-que-abandonou-cachorro/",
+                            "source": "Istoe",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMdiqB8SaWsie2hfAb8LLv1dhPAqbFYhZhRfZn1LMII_FL0kjlQGZq3QnqS1JMZANiX_r0OXXH"
+                        },
+                        "articles": [
+                            {
+                                "title": "Felipe Titto se pronuncia após ser detido ao abordar homem que ...",
+                                "timeAgo": "9h ago",
+                                "source": "Istoe",
+                                "image": {
+                                    "newsUrl": "https://istoe.com.br/felipe-titto-se-pronuncia-apos-ser-detido-ao-abordar-homem-que-abandonou-cachorro/",
+                                    "source": "Istoe",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQMdiqB8SaWsie2hfAb8LLv1dhPAqbFYhZhRfZn1LMII_FL0kjlQGZq3QnqS1JMZANiX_r0OXXH"
+                                },
+                                "url": "https://istoe.com.br/felipe-titto-se-pronuncia-apos-ser-detido-ao-abordar-homem-que-abandonou-cachorro/",
+                                "snippet": "Felipe Titto usou suas redes sociais para explicar o fato de ter sido detido ao abordar um homem que abandonou um cachorro à beira de uma rodovia."
+                            },
+                            {
+                                "title": "Felipe Titto confirma detenção por desacato após se revoltar com ...",
+                                "timeAgo": "6h ago",
+                                "source": "Purepeople.com.br",
+                                "image": {
+                                    "newsUrl": "https://www.purepeople.com.br/noticia/felipe-titto-detido-por-desacato-defende-animais-apos-presenciar-abandono-e-crime_a315465/1",
+                                    "source": "Purepeople.com.br",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcSkVJEifQ3PrzZLdho5aNpkyv-mESitKNOVx9zn2HWDwlgmJXtvD1QD9y0C2s2sjxJm_Ek07oe5"
+                                },
+                                "url": "https://www.purepeople.com.br/noticia/felipe-titto-detido-por-desacato-defende-animais-apos-presenciar-abandono-e-crime_a315465/1",
+                                "snippet": "Felipe Titto foi para nos assuntos mais comentados da internet na noite desta segunda-feira (12). Em seu perfil do Instagram, o ator, que enfrentou a covid-19&nbsp;..."
+                            },
+                            {
+                                "title": "“Corrupta e racista ” diz Felipe Titto sobre a polícia no Brasil",
+                                "timeAgo": "4h ago",
+                                "source": "Metrópoles",
+                                "image": {
+                                    "newsUrl": "https://www.metropoles.com/colunas/leo-dias/corrupta-e-racista-diz-felipe-titto-sobre-a-policia-no-brasil",
+                                    "source": "Metrópoles",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQB114OU8RHGOYC691luHq_jUxMKSdGAth338OiXHpNo3198-DArqpMs5BZ2-53PHhcCKBkEKlL"
+                                },
+                                "url": "https://www.metropoles.com/colunas/leo-dias/corrupta-e-racista-diz-felipe-titto-sobre-a-policia-no-brasil",
+                                "snippet": "As afirmações aconteceram após o ator ser preso por se envolver em uma polêmica no Rio Grande do Sul."
+                            },
+                            {
+                                "title": "Ator Felipe Titto afirma que tentou salvar cachorro e nega ter ...",
+                                "timeAgo": "4h ago",
+                                "source": "Diário de Canoas",
+                                "image": {
+                                    "newsUrl": "https://www.diariodecanoas.com.br/noticias/regiao/2021/04/13/ator-felipe-titto-afirma-que-tentou-salvar-cachorro-e-nega-ter-coagido-policiais.html",
+                                    "source": "Diário de Canoas",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSItjUrh7Ht14apOJ9Kp7jHvxdGMQiYsK4VoNEB-_5cBUE-zO7dXIWW13xs9RSuuKQuwENdaPcG"
+                                },
+                                "url": "https://www.diariodecanoas.com.br/noticias/regiao/2021/04/13/ator-felipe-titto-afirma-que-tentou-salvar-cachorro-e-nega-ter-coagido-policiais.html",
+                                "snippet": "Artista foi preso pela Brigada Militar em Canela após se envolver em uma briga de trânsito, na sexta."
+                            },
+                            {
+                                "title": "Felipe Titto explica por que foi detido e algemado ao tentar impedir ...",
+                                "timeAgo": "5h ago",
+                                "source": "Jovem Pan",
+                                "image": {
+                                    "newsUrl": "https://jovempan.com.br/entretenimento/famosos/felipe-titto-explica-por-que-foi-detido-e-algemado-ao-tentar-impedir-abandono-de-animal.html",
+                                    "source": "Jovem Pan",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcSlOOEpKvA4bWWzrpumX5A0WGL9hDizlp86rH2UfFb-uAQS_jfqhPCLqf91qcy7ElOQOSSK5-EK"
+                                },
+                                "url": "https://jovempan.com.br/entretenimento/famosos/felipe-titto-explica-por-que-foi-detido-e-algemado-ao-tentar-impedir-abandono-de-animal.html",
+                                "snippet": "Ator contou que policiais não se importaram quando ele relatou o crime e ainda foi acusado de desacato."
+                            },
+                            {
+                                "title": "Felipe Titto é detido após tentar impedir abandono de cachorro",
+                                "timeAgo": "7h ago",
+                                "source": "R7",
+                                "image": {
+                                    "newsUrl": "https://entretenimento.r7.com/famosos-e-tv/felipe-titto-e-detido-apos-tentar-impedir-abandono-de-cachorro-13042021",
+                                    "source": "R7",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTB70Tga-KFhcxMZ1El0KGTYYSWyWCl4RWFAkGhkT-M1SzNdxTwVjVrgYPFgNh0fEXQno0eodiR"
+                                },
+                                "url": "https://entretenimento.r7.com/famosos-e-tv/felipe-titto-e-detido-apos-tentar-impedir-abandono-de-cachorro-13042021",
+                                "snippet": "O artista contou que seguiu o homem que deixou o animal na rua, foi até um posto policial denunciar a ação e discutiu um agente."
+                            },
+                            {
+                                "title": "Felipe Titto é detido por desacato após tentar impedir abandono de ...",
+                                "timeAgo": "6h ago",
+                                "source": "O Dia",
+                                "image": {
+                                    "newsUrl": "https://odia.ig.com.br/diversao/celebridades/2021/04/6124907-felipe-titto-e-detido-por-desacato-apos-tentar-impedir-abandono-de-animal.html",
+                                    "source": "O Dia",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQwVO9DxewJcKB341lWTf63qxbl2OzJ_BsDpfIeXUZa4494IUJ0hD5yad9qvCLGV39EwMEBwH6y"
+                                },
+                                "url": "https://odia.ig.com.br/diversao/celebridades/2021/04/6124907-felipe-titto-e-detido-por-desacato-apos-tentar-impedir-abandono-de-animal.html",
+                                "snippet": "Rio - Felipe Titto contou, na noite desta segunda-feira, que foi detido por desacato à autoridade no Rio Grande do Sul na última semana. Segundo o ator, que já&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Felipe+Titto#Felipe%20Titto"
+                    },
+                    {
+                        "title": {
+                            "query": "Falsa",
+                            "exploreLink": "/trends/explore?q=Falsa&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {},
+                        "articles": [
+                            {
+                                "title": "Imobiliária pagará dano moral coletivo por vender lotes com falsa ...",
+                                "timeAgo": "4h ago",
+                                "source": "Jusdecisum",
+                                "url": "https://jusdecisum.com.br/imobiliaria-pagara-dano-moral-coletivo-por-vender-lotes-com-falsa-propaganda-sobre-regularizacao/",
+                                "snippet": "​​A Quarta Turma do Superior Tribunal de Justiça (STJ) condenou uma imobiliária e seu proprietário ao pagamento de danos morais coletivos de R$ 30 mil,&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Falsa#Falsa"
+                    },
+                    {
+                        "title": {
+                            "query": "GeForce Now",
+                            "exploreLink": "/trends/explore?q=GeForce+Now&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "10K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.theenemy.com.br/pc/geforce-now-disponivel-brasil",
+                            "source": "The Enemy",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQD9wlVEZctC74XtV7-3hKJLnNWFtJ-6b4tJ06_nc30o73pc-PvuIpxo3-CO7sHzXXHZ9KDR0D0"
+                        },
+                        "articles": [
+                            {
+                                "title": "GeForce Now está disponível no Brasil",
+                                "timeAgo": "6h ago",
+                                "source": "The Enemy",
+                                "image": {
+                                    "newsUrl": "https://www.theenemy.com.br/pc/geforce-now-disponivel-brasil",
+                                    "source": "The Enemy",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcQD9wlVEZctC74XtV7-3hKJLnNWFtJ-6b4tJ06_nc30o73pc-PvuIpxo3-CO7sHzXXHZ9KDR0D0"
+                                },
+                                "url": "https://www.theenemy.com.br/pc/geforce-now-disponivel-brasil",
+                                "snippet": "O serviço GeForce Now, da NVidia, já está disponível no Brasil. Segundo o site oficial, mais de 800 jogos para PC podem ser jogados através da plataforma de&nbsp;..."
+                            },
+                            {
+                                "title": "GeForce Now: Serviço da NVIDIA para streaming de jogos chega ao ...",
+                                "timeAgo": "3h ago",
+                                "source": "Tudocelular.com",
+                                "image": {
+                                    "newsUrl": "https://www.tudocelular.com/tech/noticias/n173180/geforce-now-chega-brasil.html",
+                                    "source": "Tudocelular.com",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcTVPOWzPZzh2y26zyPVFy63yB75w-liKeODSNvpCatjc8tE10PCdVd1EuTfmOyItsz7ZONQAIaB"
+                                },
+                                "url": "https://www.tudocelular.com/tech/noticias/n173180/geforce-now-chega-brasil.html",
+                                "snippet": "De surpresa, a NVIDIA anunciou a chegada do serviço GeForce Now no Brasil. A descoberta foi feita através do site oficial da plataforma, que ganhou uma&nbsp;..."
+                            },
+                            {
+                                "title": "GeForce Now chegará à América Latina no final deste ano",
+                                "timeAgo": "2h ago",
+                                "source": "Canaltech",
+                                "image": {
+                                    "newsUrl": "https://canaltech.com.br/games/geforce-now-chega-a-america-latina-no-final-deste-ano-182589/",
+                                    "source": "Canaltech",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRy1iRLZI6BT1K6b1S9xvaZWTpyEQYKmcnx9t2FWciboPdmtDEdZXLOdWu2tkgg9Xzte993L5O8"
+                                },
+                                "url": "https://canaltech.com.br/games/geforce-now-chega-a-america-latina-no-final-deste-ano-182589/",
+                                "snippet": "Ainda sem data revelada para o Brasil, serviço de cloud gaming promete atender 100 milhões de jogadores na região, com foco em valores de assinatura mais&nbsp;..."
+                            },
+                            {
+                                "title": "Cadastro GeForce Now no Brasil",
+                                "timeAgo": "4h ago",
+                                "source": "galaxianerd.com",
+                                "image": {
+                                    "newsUrl": "https://galaxianerd.com/13/04/2021/cadastro-geforce-now-no-brasil/",
+                                    "source": "galaxianerd.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTH_bxzgAtw-IbAe4I2pRyFkhdDU2V6OMY-LMzWsPcugaV26tTe2WcnJg5whDM8ElRj674mY4nd"
+                                },
+                                "url": "https://galaxianerd.com/13/04/2021/cadastro-geforce-now-no-brasil/",
+                                "snippet": "O serviço de jogos em nuvem vem crescendo e ganhando corpo, tornando-se uma grande esperança para os gamers que não possuem poder aquisitivo para&nbsp;..."
+                            },
+                            {
+                                "title": "GeForce NOW chegará ao Brasil no fim do ano - Hardware.com.br",
+                                "timeAgo": "6h ago",
+                                "source": "Hardware.com.br",
+                                "image": {
+                                    "newsUrl": "https://www.hardware.com.br/noticias/2021-04/geforce-now-chegara-ao-brasil-no-fim-do-ano.html",
+                                    "source": "Hardware.com.br",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcR_ubKKqvbmzsezae4ok1c2QMK1Vbh2t3Wug50Rd_ge_Htz1BPC8SZyVInnHDSymyXoqgPACo3F"
+                                },
+                                "url": "https://www.hardware.com.br/noticias/2021-04/geforce-now-chegara-ao-brasil-no-fim-do-ano.html",
+                                "snippet": "Completando dois anos de existência e contando com quase 10 milhões de membros, a plataforma de streaming de jogos em nuvem da Nvidia, o GeForce&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=GeForce+Now#GeForce%20Now"
+                    },
+                    {
+                        "title": {
+                            "query": "Alexandre de Moraes",
+                            "exploreLink": "/trends/explore?q=Alexandre+de+Moraes&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.poder360.com.br/justica/nunes-marques-vai-relatar-acao-que-pede-impeachment-de-alexandre-de-moraes/",
+                            "source": "Poder360",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdPEZDCvCMo_C0g8UjWeSvst2I_CgnhxemKMCLbX5JLbEYrVO-Ef_wpRoG_TV_MAtiT7Mw60MR"
+                        },
+                        "articles": [
+                            {
+                                "title": "Processo movido pelo senador Kajuru Quer acelerar processo ...",
+                                "timeAgo": "17h ago",
+                                "source": "Poder360",
+                                "image": {
+                                    "newsUrl": "https://www.poder360.com.br/justica/nunes-marques-vai-relatar-acao-que-pede-impeachment-de-alexandre-de-moraes/",
+                                    "source": "Poder360",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRdPEZDCvCMo_C0g8UjWeSvst2I_CgnhxemKMCLbX5JLbEYrVO-Ef_wpRoG_TV_MAtiT7Mw60MR"
+                                },
+                                "url": "https://www.poder360.com.br/justica/nunes-marques-vai-relatar-acao-que-pede-impeachment-de-alexandre-de-moraes/",
+                                "snippet": "Processo movido pelo senador Kajuru; Quer acelerar processo contra magistrado. Leia no Poder360."
+                            },
+                            {
+                                "title": "&#39;Se eu fosse essa turma, não brincava com Alexandre&#39;, alerta ...",
+                                "timeAgo": "8h ago",
+                                "source": "Jornal O Globo",
+                                "image": {
+                                    "newsUrl": "https://epoca.globo.com/guilherme-amado/se-eu-fosse-essa-turma-nao-brincava-com-alexandre-alerta-ministro-do-stf-24968014",
+                                    "source": "Jornal O Globo",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcQicazlrJry941TgZzPvNMv_a_3U4EnxPhKmUHmo17qiIH-yWylb7XKXuHboYkF1Ac26iSR-b6G"
+                                },
+                                "url": "https://epoca.globo.com/guilherme-amado/se-eu-fosse-essa-turma-nao-brincava-com-alexandre-alerta-ministro-do-stf-24968014",
+                                "snippet": "Um ministro do STF, que observa de longe os ataques recentes de Jair Bolsonaro a colegas seus no tribunal, lembra que o governo tem a perder nas&nbsp;..."
+                            },
+                            {
+                                "title": "Nunes Marques será relator de pedido de impeachment de ...",
+                                "timeAgo": "18h ago",
+                                "source": "Valor Econômico",
+                                "image": {
+                                    "newsUrl": "https://valor.globo.com/politica/noticia/2021/04/12/nunes-marques-sera-relator-de-pedido-de-impeachment-de-alexandre-de-moraes.ghtml",
+                                    "source": "Valor Econômico",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTXgq3ke6_7alG_KMoYIMw71fLdH68SW4bzDnXe8nzvwFsMqOO2JWyA2IhXfEuNkKL_txdq1PWV"
+                                },
+                                "url": "https://valor.globo.com/politica/noticia/2021/04/12/nunes-marques-sera-relator-de-pedido-de-impeachment-de-alexandre-de-moraes.ghtml",
+                                "snippet": "O ministro Kassio Nunes Marques será o relator do pedido apresentado pelo senador Jorge Kajuru (Cidadania-GO) para que o Supremo Tribunal Federal&nbsp;..."
+                            },
+                            {
+                                "title": "Nunes Marques é sorteado relator de impeachment de Alexandre ...",
+                                "timeAgo": "18h ago",
+                                "source": "VEJA.com",
+                                "image": {
+                                    "newsUrl": "https://veja.abril.com.br/politica/nunes-marques-e-sorteado-relator-de-impeachment-de-alexandre-de-moraes/",
+                                    "source": "VEJA.com",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcQa5hmL2_-lU1oP7lAWGL9IZZJaaELMRUsRXWgG2Z7sN936uzg1-u9pPk-tEiEaHloq5USeeYCP"
+                                },
+                                "url": "https://veja.abril.com.br/politica/nunes-marques-e-sorteado-relator-de-impeachment-de-alexandre-de-moraes/",
+                                "snippet": "Senador Jorge Kajuru (Cidadania-GO) pediu ao STF para determinar ao presidente do Senado a abertura do processo contra o ministro Alexandre de Moraes."
+                            },
+                            {
+                                "title": "Nunes Marques é o relator de ação sobre impeachment de ...",
+                                "timeAgo": "19h ago",
+                                "source": "IstoÉ Dinheiro",
+                                "url": "https://www.istoedinheiro.com.br/nunes-marques-e-sorteado/",
+                                "snippet": "O ministro Nunes Marques, do STF, foi sorteado relator de uma ação que pede que o Senado dê andamento a um pedido de impeachment contra Alexandre de&nbsp;..."
+                            },
+                            {
+                                "title": "Kassio é sorteado relator de pedido de Kajuru pelo impeachment de ...",
+                                "timeAgo": "20h ago",
+                                "source": "Política Estadão",
+                                "image": {
+                                    "newsUrl": "https://politica.estadao.com.br/blogs/fausto-macedo/kassio-e-sorteado-relator-de-pedido-de-kajuru-pelo-impeachment-de-alexandre-de-moraes/",
+                                    "source": "Política Estadão",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTQAYFTkPBFF_wzclpr-yno6_RTAO2je-INuUlu4CGmRzBK6GfuqvWoX0eFdnvJy-nZdBBjUkUy"
+                                },
+                                "url": "https://politica.estadao.com.br/blogs/fausto-macedo/kassio-e-sorteado-relator-de-pedido-de-kajuru-pelo-impeachment-de-alexandre-de-moraes/",
+                                "snippet": "Ministro indicado por Bolsonaro é escolhido para relatar mandado de segurança do senador para obrigar Senado a abrir processo contra integrante."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Alexandre+de+Moraes#Alexandre%20de%20Moraes"
+                    },
+                    {
+                        "title": {
+                            "query": "Aniversário de Fortaleza",
+                            "exploreLink": "/trends/explore?q=Anivers%C3%A1rio+de+Fortaleza&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://www.flaviopintonews.com.br/2021/04/295-anos-no-aniversario-de-fortaleza.html",
+                            "source": "Flavio Pinto",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS5KiMcFjn4SXEp9R1PIOJxmVxZsW1a3dJbGsmN3qZxYEWQ9-cZAXupxsvxVEasrRYt7k28QUEd"
+                        },
+                        "articles": [
+                            {
+                                "title": "295 Anos - No aniversário de Fortaleza, Sarto anuncia início e ...",
+                                "timeAgo": "3h ago",
+                                "source": "Flavio Pinto",
+                                "image": {
+                                    "newsUrl": "https://www.flaviopintonews.com.br/2021/04/295-anos-no-aniversario-de-fortaleza.html",
+                                    "source": "Flavio Pinto",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS5KiMcFjn4SXEp9R1PIOJxmVxZsW1a3dJbGsmN3qZxYEWQ9-cZAXupxsvxVEasrRYt7k28QUEd"
+                                },
+                                "url": "https://www.flaviopintonews.com.br/2021/04/295-anos-no-aniversario-de-fortaleza.html",
+                                "snippet": "O prefeito José Sarto celebrou o aniversário de 295 anos de Fortaleza, nesta terça-feira (13), entregando as obras do Projeto Meu Bairro Empreendedor,&nbsp;..."
+                            },
+                            {
+                                "title": "Prefeitura anuncia entrega do Projeto Meu Bairro Empreendedor ...",
+                                "timeAgo": "3h ago",
+                                "source": "O POVO",
+                                "image": {
+                                    "newsUrl": "https://www.opovo.com.br/noticias/ceara/2021/04/13/prefeitura-anuncia-entrega-do-projeto-meu-bairro-empreendedor--no-vicente-pinzon.html",
+                                    "source": "O POVO",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQGUS4tn-oRYq-OzfkCAzHwMWTO7rghAMuXk3TDuZ14kHKZC8QPB0K4ryG47Cnvw_7YeLskQQaT"
+                                },
+                                "url": "https://www.opovo.com.br/noticias/ceara/2021/04/13/prefeitura-anuncia-entrega-do-projeto-meu-bairro-empreendedor--no-vicente-pinzon.html",
+                                "snippet": "O prefeito de Fortaleza celebra 295 anos da Cidade e entrega obras do Projeto Meu Bairro Empreendedor, no bairro Vicente Pinzon."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Anivers%C3%A1rio+de+Fortaleza#Anivers%C3%A1rio%20de%20Fortaleza"
+                    },
+                    {
+                        "title": {
+                            "query": "Rosa Weber",
+                            "exploreLink": "/trends/explore?q=Rosa+Weber&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/04/13/rosa-weber-suspende-trechos-de-decretos-de-armas.ghtml",
+                            "source": "Valor Investe",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ94HK4ZcoB00X4A-LePPCjDk9D0hP11sUH92XvgIj-ShCBy9KGAVmuNUvtfTeCxMVhrGaO4BSd"
+                        },
+                        "articles": [
+                            {
+                                "title": "Rosa Weber derruba pontos de decretos sobre porte e posse de ...",
+                                "timeAgo": "1h ago",
+                                "source": "EBC",
+                                "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2021-04/rosa-weber-derruba-pontos-de-decretos-sobre-porte-e-posse-de-armas",
+                                "snippet": "Um dos pontos derrubados aumentava, de duas para seis, o limite de armas de fogo que uma pessoa comum pode adquirir, caso atenda aos requisitos para a&nbsp;..."
+                            },
+                            {
+                                "title": "Rosa Weber suspende trechos de decretos de armas",
+                                "timeAgo": "7h ago",
+                                "source": "Valor Investe",
+                                "image": {
+                                    "newsUrl": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/04/13/rosa-weber-suspende-trechos-de-decretos-de-armas.ghtml",
+                                    "source": "Valor Investe",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQ94HK4ZcoB00X4A-LePPCjDk9D0hP11sUH92XvgIj-ShCBy9KGAVmuNUvtfTeCxMVhrGaO4BSd"
+                                },
+                                "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2021/04/13/rosa-weber-suspende-trechos-de-decretos-de-armas.ghtml",
+                                "snippet": "Esses decretos começariam a valer na terça-feira (13), por isso a ministra do STF resolveu analisar sozinha; decisão vale até o plenário da Corte analisar a&nbsp;..."
+                            },
+                            {
+                                "title": "Para facilitar aprovação, relator no Senado deve acatar suspensões ...",
+                                "timeAgo": "2h ago",
+                                "source": "G1",
+                                "image": {
+                                    "newsUrl": "https://g1.globo.com/economia/blog/ana-flor/post/2021/04/13/para-facilitar-aprovacao-relator-no-senado-deve-acatar-suspensoes-de-rosa-weber-a-decretos-de-armas.ghtml",
+                                    "source": "G1",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcTXhQGlCcJR1P_ndFRKit0SAUcs-1SnGDjzJ9tr7PJ0ZskkENzkybjBOnh3UgjK5vGuGgUarbGv"
+                                },
+                                "url": "https://g1.globo.com/economia/blog/ana-flor/post/2021/04/13/para-facilitar-aprovacao-relator-no-senado-deve-acatar-suspensoes-de-rosa-weber-a-decretos-de-armas.ghtml",
+                                "snippet": "O relator no Senado do projeto que trata dos decretos presidenciais que facilitam a compra e posse de armas de fogo e munições, Marcos do Val (Pode-ES) irá&nbsp;..."
+                            },
+                            {
+                                "title": "Decretos de armas de Bolsonaro têm trechos suspensos pela ...",
+                                "timeAgo": "6h ago",
+                                "source": "Sobral Online",
+                                "image": {
+                                    "newsUrl": "https://sobralonline.com.br/decretos-de-armas-de-bolsonaro-tem-trechos-suspensos-pela-ministra-rosa-weber-do-stf/",
+                                    "source": "Sobral Online",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcResYy9taLKNX7kHX1IVUEsa-c7vVR6_ZvRx4ko6Qk9Ql2xFziQOl2fLvugJKyfTMrK_FDNz1F4"
+                                },
+                                "url": "https://sobralonline.com.br/decretos-de-armas-de-bolsonaro-tem-trechos-suspensos-pela-ministra-rosa-weber-do-stf/",
+                                "snippet": "A ministra do Supremo Tribunal Federal (STF) Rosa Weber, suspendeu em decisão individual, nesta segunda-feira (12), trechos dos quatro decretos sobre&nbsp;..."
+                            },
+                            {
+                                "title": "Armas: Rosa Weber suspende trechos dos decretos que flexibilizam ...",
+                                "timeAgo": "6h ago",
+                                "source": "Canal Rural",
+                                "image": {
+                                    "newsUrl": "https://www.canalrural.com.br/noticias/armas-decretos-flexibilizacao-posse-porte/",
+                                    "source": "Canal Rural",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcR2EzspOIsv096RA4C4hxDdACtpOIBFr3Q0AFvAGS-aUZBxujVnTh_trcMnnrOt-eO-UbVsW5eF"
+                                },
+                                "url": "https://www.canalrural.com.br/noticias/armas-decretos-flexibilizacao-posse-porte/",
+                                "snippet": "Em decisão individual, a ministra do STF afirma que as medidas do presidente Jair Bolsonaro são incompatíveis com o Estatuto do Desarmamento."
+                            },
+                            {
+                                "title": "STF julga decisão de Rosa Weber que suspendeu trechos dos ...",
+                                "timeAgo": "5h ago",
+                                "source": "Diário do Nordeste",
+                                "image": {
+                                    "newsUrl": "https://diariodonordeste.verdesmares.com.br/politica/stf-julga-decisao-de-rosa-weber-que-suspendeu-trechos-dos-decretos-de-armas-de-bolsonaro-1.3072439",
+                                    "source": "Diário do Nordeste",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTzzXtOeb2-iZe2VCe2-KF8yYOXZwAmLoNTVj7z3ZFS-1fmMGeKXNsoBO7yhROLEYGcwBnyhWpH"
+                                },
+                                "url": "https://diariodonordeste.verdesmares.com.br/politica/stf-julga-decisao-de-rosa-weber-que-suspendeu-trechos-dos-decretos-de-armas-de-bolsonaro-1.3072439",
+                                "snippet": "O Supremo Tribunal Federal (STF) vai julgar, em plenário virtual, a."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Rosa+Weber#Rosa%20Weber"
+                    },
+                    {
+                        "title": {
+                            "query": "Aloy Jupiara",
+                            "exploreLink": "/trends/explore?q=Aloy+Jupiara&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/morre-o-jornalista-aloy-jupiara-aos-56-anos-vitima-da-covid-19-1.3072453",
+                            "source": "Diário do Nordeste",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWEbiUF3FP9X2_j8bHnHiGCe_2MIihni06IWVCyPZjcye29lzAc5QSy3F68oxBxXb13puJTUhE"
+                        },
+                        "articles": [
+                            {
+                                "title": "Morre o jornalista Aloy Jupiara, aos 56 anos, vítima da Covid-19",
+                                "timeAgo": "5h ago",
+                                "source": "Diário do Nordeste",
+                                "image": {
+                                    "newsUrl": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/morre-o-jornalista-aloy-jupiara-aos-56-anos-vitima-da-covid-19-1.3072453",
+                                    "source": "Diário do Nordeste",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTWEbiUF3FP9X2_j8bHnHiGCe_2MIihni06IWVCyPZjcye29lzAc5QSy3F68oxBxXb13puJTUhE"
+                                },
+                                "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/morre-o-jornalista-aloy-jupiara-aos-56-anos-vitima-da-covid-19-1.3072453",
+                                "snippet": "O jornalista Aloy Jupiara morreu, na noite desta segunda-feira (12), vítima da Covid-19, aos 56 anos. Segundo o jornal O Dia, no qual o jornalista era&nbsp;..."
+                            },
+                            {
+                                "title": "Morre no Rio o jornalista Aloy Jupiara",
+                                "timeAgo": "1h ago",
+                                "source": "Agência Brasil",
+                                "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-04/mario-morre-no-rio-o-jornalista-aloy-jupiara",
+                                "snippet": "Morreu ontem (12), vítima de covid-19, o jornalista Aloy Jupiara. Ele tinha 56 anos e estava internado desde 29 de março. O jornalista estava no CTI do Hospital&nbsp;..."
+                            },
+                            {
+                                "title": "Jornalista Aloy Jupiara morre no Rio, vítima de Covid",
+                                "timeAgo": "9h ago",
+                                "source": "G1",
+                                "image": {
+                                    "newsUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2021/04/13/jornalista-aloy-jupiara-morre-no-rio-vitima-de-covid.ghtml",
+                                    "source": "G1",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS8saSKfNpphWRbRdDf2dmR1Fb5XHKZqEe5hell9_MtCmgp7iFPxbHj9Fx8C1zPPbfCmQpFd5q7"
+                                },
+                                "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2021/04/13/jornalista-aloy-jupiara-morre-no-rio-vitima-de-covid.ghtml",
+                                "snippet": "Ele estava internado desde o dia 29 de março. Aloy foi repórter do jornal O Globo, editor executivo do site do jornal e também do Extra, além de gerente de&nbsp;..."
+                            },
+                            {
+                                "title": "Morre de Covid o jornalista Aloy Jupiara, de O Dia e ex-Globo",
+                                "timeAgo": "2h ago",
+                                "source": "Jornal Opção",
+                                "image": {
+                                    "newsUrl": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/morre-de-covid-o-jornalista-aloy-jupiara-de-o-dia-e-ex-globo-322683/",
+                                    "source": "Jornal Opção",
+                                    "imageUrl": "https://t2.gstatic.com/images?q=tbn:ANd9GcTjpF5IjmAs-MumgxqYXW6QUta1BqZTAaqM8Z2wbo21ikc_uJ7o207Km3oanNPxtqwsE6WDyKed"
+                                },
+                                "url": "https://www.jornalopcao.com.br/colunas-e-blogs/imprensa/morre-de-covid-o-jornalista-aloy-jupiara-de-o-dia-e-ex-globo-322683/",
+                                "snippet": "Repórter investigativo, autor de dois livros, não resistiu a uma infecção pulmonar. Ele tinha 56 anos."
+                            },
+                            {
+                                "title": "Morre o jornalista Aloy Jupiara, aos 56 anos, por complicações da ...",
+                                "timeAgo": "1h ago",
+                                "source": "UOL Notícias",
+                                "image": {
+                                    "newsUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/04/13/morre-aloy-jupiara-por-covid-19.htm",
+                                    "source": "UOL Notícias",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRAI-ZTH_-8tAfDtMtOss94TpZ8CZcCXt3r-3JXfWtNo90UCDZbK-5igcAIYJsiZb-s2zH36zLe"
+                                },
+                                "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2021/04/13/morre-aloy-jupiara-por-covid-19.htm",
+                                "snippet": "Aloy Jupiara era editor-chefe do diário O Dia, escreveu livros sobre o jogo do bicho e Eduardo Cunha e participou do documentário &#39;Doutor Castor&#39;."
+                            },
+                            {
+                                "title": "Morre Aloy Jupiara, editor do jornal O Dia, vítima da Covid-19",
+                                "timeAgo": "6h ago",
+                                "source": "iG",
+                                "image": {
+                                    "newsUrl": "https://gente.ig.com.br/cultura/2021-04-13/morre-aloy-jupiara-vitima-da-covid-19.html",
+                                    "source": "iG",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcSXR14pXWw08WU7MfsxhfhcjQRipTngD-vo3eQg8MFK6WEfIotkfMgUK2AdhsDFAPj-XAicgUK7"
+                                },
+                                "url": "https://gente.ig.com.br/cultura/2021-04-13/morre-aloy-jupiara-vitima-da-covid-19.html",
+                                "snippet": "Jornalista estava internado desde o dia 29 de março na UTI."
+                            },
+                            {
+                                "title": "Aloy Jupiara, jornalista e escritor, morre de Covid aos 56 anos",
+                                "timeAgo": "6h ago",
+                                "source": "O Tempo",
+                                "image": {
+                                    "newsUrl": "https://www.otempo.com.br/diversao/aloy-jupiara-jornalista-e-escritor-morre-de-covid-aos-56-anos-1.2471604",
+                                    "source": "O Tempo",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRtMxwh1uBOkmkxh9WEneIT0W9bJmkhiK4F45Ck3nrapsKsNoTkNK4uECXBU7K_g37Q0W0-ZSIQ"
+                                },
+                                "url": "https://www.otempo.com.br/diversao/aloy-jupiara-jornalista-e-escritor-morre-de-covid-aos-56-anos-1.2471604",
+                                "snippet": "Atual editor-chefe do jornal O Dia, ele era um dos autores do livro &#39;Os porões da contravenção&#39;, que inspirou série &#39;Doutor Castor&#39;, do Globoplay."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Aloy+Jupiara#Aloy%20Jupiara"
+                    },
+                    {
+                        "title": {
+                            "query": "Daunte Wright",
+                            "exploreLink": "/trends/explore?q=Daunte+Wright&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://noticias.uol.com.br/ultimas-noticias/afp/2021/04/13/eua-morte-de-jovem-negro-pela-policia-coloca-minneapolis-sob-tensao.htm",
+                            "source": "UOL Notícias",
+                            "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbDgO4GCNO_POt_fsyHnWhYLqjtSKUWgbDrD9bQZZGWGDl4eistmu45hR68Q1LJwtk548-AgXo"
+                        },
+                        "articles": [
+                            {
+                                "title": "EUA: Manifestantes protestam pela segunda noite contra morte de ...",
+                                "timeAgo": "8h ago",
+                                "source": "UOL Notícias",
+                                "image": {
+                                    "newsUrl": "https://noticias.uol.com.br/ultimas-noticias/afp/2021/04/13/eua-morte-de-jovem-negro-pela-policia-coloca-minneapolis-sob-tensao.htm",
+                                    "source": "UOL Notícias",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcQbDgO4GCNO_POt_fsyHnWhYLqjtSKUWgbDrD9bQZZGWGDl4eistmu45hR68Q1LJwtk548-AgXo"
+                                },
+                                "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2021/04/13/eua-morte-de-jovem-negro-pela-policia-coloca-minneapolis-sob-tensao.htm",
+                                "snippet": "Minneapolis vivia ontem a segunda noite de protestos, apesar do início do toque de recolher na cidade americana, agitada pela morte supostamente acidental&nbsp;..."
+                            },
+                            {
+                                "title": "Estados Unidos tem segundo dia de protestos após morte de ...",
+                                "timeAgo": "2h ago",
+                                "source": "Rede Brasil Atual",
+                                "image": {
+                                    "newsUrl": "https://www.redebrasilatual.com.br/mundo/2021/04/daunte-wright-jovem-negro-protestos-assassinato/",
+                                    "source": "Rede Brasil Atual",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcS1CiaNcZY1DA7ig7DccNemXNDOZ6XUFcNK92hbG89HOh9hk0ItKyOw_htBEHrGdGpagnCP8-L6"
+                                },
+                                "url": "https://www.redebrasilatual.com.br/mundo/2021/04/daunte-wright-jovem-negro-protestos-assassinato/",
+                                "snippet": "A cidade de Minneapolis-EUA teve a segunda noite de protestos contra a morte do jovem negro Daunte Wright, assassinado a tiro por uma policial."
+                            },
+                            {
+                                "title": "Manifestantes realizam segunda noite de protesto após a morte de ...",
+                                "timeAgo": "5h ago",
+                                "source": "Aventuras na História",
+                                "image": {
+                                    "newsUrl": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/manifestantes-realizam-segunda-noite-de-protesto-apos-a-morte-de-daunte-wright-nos-eua.phtml",
+                                    "source": "Aventuras na História",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcT_-IJoLTvJjGJRwiEw-l3-Awf9jyT1p3THpxUauGhcf_ISz4PSeJvcWAHQ0VuZLgf4pMDl9NtT"
+                                },
+                                "url": "https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/manifestantes-realizam-segunda-noite-de-protesto-apos-a-morte-de-daunte-wright-nos-eua.phtml",
+                                "snippet": "O jovem foi morto pela&nbsp;..."
+                            },
+                            {
+                                "title": "Três jogos adiados em Minneapolis após morte de afro-americano ...",
+                                "timeAgo": "8h ago",
+                                "source": "O Jogo",
+                                "image": {
+                                    "newsUrl": "https://www.ojogo.pt/modalidades/madeinusa/noticias/tres-jogos-adiados-em-minneapolis-apos-morte-de-afro-americano-daunte-wright-13563888.html",
+                                    "source": "O Jogo",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcRHWftweGT2lXPPgO082A7PrRMSokLZ2bi6tVN9hz5qr7kH0WSzSbqYN1K7nGz7lNgUzkTH-Q2t"
+                                },
+                                "url": "https://www.ojogo.pt/modalidades/madeinusa/noticias/tres-jogos-adiados-em-minneapolis-apos-morte-de-afro-americano-daunte-wright-13563888.html",
+                                "snippet": "Morte de Wright motivou protestos com centenas de pessoas nas ruas. Um jogo de basquetebol, outro de basebol e um outro de hóquei no gelo foram adiados&nbsp;..."
+                            },
+                            {
+                                "title": "40 são presos no 2º dia de protestos após morte de jovem negro ...",
+                                "timeAgo": "5h ago",
+                                "source": "G1",
+                                "image": {
+                                    "newsUrl": "https://g1.globo.com/mundo/noticia/2021/04/13/40-sao-presos-no-2o-dia-de-protestos-apos-morte-de-jovem-negro-nos-eua.ghtml",
+                                    "source": "G1",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcRcLPz6ewyUXfqiCcqWVclKjV2YmAqwJRz--ssAuBDs41Hv4_OwU8q4nmJ-ddCs-vthxHFroxQg"
+                                },
+                                "url": "https://g1.globo.com/mundo/noticia/2021/04/13/40-sao-presos-no-2o-dia-de-protestos-apos-morte-de-jovem-negro-nos-eua.ghtml",
+                                "snippet": "Chefe da polícia de Brooklin Center divulgou imagens da abordagem e afirmou que a policial que atirou confundiu sua arma de fogo com um taser (aparelho&nbsp;..."
+                            },
+                            {
+                                "title": "Depois de Floyd, assassinato de Daunte Wright pela polícia leva à ...",
+                                "timeAgo": "4h ago",
+                                "source": "Revista Fórum",
+                                "image": {
+                                    "newsUrl": "https://revistaforum.com.br/global/depois-de-floyd-assassinato-de-daunte-wright-pela-policia-leva-a-nova-onda-protestos-nos-eua/",
+                                    "source": "Revista Fórum",
+                                    "imageUrl": "https://t1.gstatic.com/images?q=tbn:ANd9GcS8ftw9QLXB-xw8vRv0SFWF9sk-Po0ZvuKO284NCjD7QQufQjyA6G2D_X2i0uWnd6QHJwFuGQzf"
+                                },
+                                "url": "https://revistaforum.com.br/global/depois-de-floyd-assassinato-de-daunte-wright-pela-policia-leva-a-nova-onda-protestos-nos-eua/",
+                                "snippet": "Jovem de 20 anos foi morto por uma policial branca após ser parado por uma infração de trânsito; ela alega que confundiu a arma taser (não-letal) com sua&nbsp;..."
+                            },
+                            {
+                                "title": "Policial que matou homem negro nos EUA confundiu revólver com ...",
+                                "timeAgo": "2h ago",
+                                "source": "Jovem Pan",
+                                "image": {
+                                    "newsUrl": "https://jovempan.com.br/noticias/mundo/policial-que-matou-homem-negro-nos-eua-confundiu-revolver-com-arma-de-choque.html",
+                                    "source": "Jovem Pan",
+                                    "imageUrl": "https://t3.gstatic.com/images?q=tbn:ANd9GcRRW6twSFuZFTeQ1C-wwfMvolnf-W3TYDtwuq3epRjOIbeaGGiPO2hIGqubjhPMxlqbSL8NYeF4"
+                                },
+                                "url": "https://jovempan.com.br/noticias/mundo/policial-que-matou-homem-negro-nos-eua-confundiu-revolver-com-arma-de-choque.html",
+                                "snippet": "Pelo menos 40 manifestantes foram detidos em protestos pela morte de Daunte Wright, baleado a cerca de 16 quilômetros do local onde George Floyd foi&nbsp;..."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Daunte+Wright#Daunte%20Wright"
+                    },
+                    {
+                        "title": {
+                            "query": "Jogo sao Paulo",
+                            "exploreLink": "/trends/explore?q=Jogo+sao+Paulo&date=now+7-d&geo=BR"
+                        },
+                        "formattedTraffic": "5K+",
+                        "relatedQueries": [],
+                        "image": {
+                            "newsUrl": "https://globoesporte.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/barbieri-elogia-estilo-de-jogo-do-sao-paulo-e-ve-derrota-como-aprendizado-para-a-sul-americana.ghtml",
+                            "source": "globoesporte.com",
+                            "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmfvzKt5m3X_nCr3kq3Ou__h_3Q494xLumlNwttZ5_D6hs9o5SnTh7LEyoaGYjxKLmNc11KIZp"
+                        },
+                        "articles": [
+                            {
+                                "title": "Barbieri elogia estilo de jogo do São Paulo e vê derrota como ...",
+                                "timeAgo": "3h ago",
+                                "source": "globoesporte.com",
+                                "image": {
+                                    "newsUrl": "https://globoesporte.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/barbieri-elogia-estilo-de-jogo-do-sao-paulo-e-ve-derrota-como-aprendizado-para-a-sul-americana.ghtml",
+                                    "source": "globoesporte.com",
+                                    "imageUrl": "https://t0.gstatic.com/images?q=tbn:ANd9GcTmfvzKt5m3X_nCr3kq3Ou__h_3Q494xLumlNwttZ5_D6hs9o5SnTh7LEyoaGYjxKLmNc11KIZp"
+                                },
+                                "url": "https://globoesporte.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/barbieri-elogia-estilo-de-jogo-do-sao-paulo-e-ve-derrota-como-aprendizado-para-a-sul-americana.ghtml",
+                                "snippet": "Na noite desta segunda-feira, 12, o Massa Bruta foi superado pelo Tricolor por 1 a 0, com gol contra do zagueiro Léo Ortiz."
+                            },
+                            {
+                                "title": "Técnico do Bragantino vê derrota para o São Paulo como ...",
+                                "timeAgo": "2h ago",
+                                "source": "Futebolinterior",
+                                "url": "https://www.futebolinterior.com.br/futebol/Bragantino-SP/noticias/2021-04/tecnico-do-bragantino-ve-derrota-para-o-sao-paulo-como-aprendizado",
+                                "snippet": "Maurício Barbieri avaliou o estilo de jogo do São Paulo como parecido com que o Massa Bruta vai enfrentar no cenário internacional."
+                            }
+                        ],
+                        "shareUrl": "https://trends.google.com/trends/trendingsearches/daily?geo=BR&tt=Jogo+sao+Paulo#Jogo%20sao%20Paulo"
+                    }
+                ]
+            }
+        ],
+        "endDateForNextRequest": "20210412",
+        "rssFeedPageUrl": "https://trends.google.com/trends/trendingsearches/daily/rss?geo=BR"
+    }
+}

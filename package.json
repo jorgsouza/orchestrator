@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/jorgsouza/orchestrator#readme",
   "dependencies": {
+    "algorithmia": "^0.3.10",
+    "google-trends-api": "^4.9.2",
     "readline-sync": "^1.4.10",
-    "rss-parser": "^3.12.0"
+    "rss-parser": "^3.12.0",
+    "sbd": "^1.0.18"
   }
 }
